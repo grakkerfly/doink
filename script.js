@@ -2,8 +2,8 @@
 // EDITE OS LINKS AQUI. Use a URL completa do perfil / da moeda.
 function getSocialLinks() {
   return {
-    twitter: 'https://twitter.com/',
-    pump: 'https://pump.fun/'
+    twitter: 'https://x.com/thedoinkdoink',
+    pump: 'https://pump.fun'
   };
 }
 
