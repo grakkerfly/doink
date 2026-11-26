@@ -3,7 +3,7 @@
 function getSocialLinks() {
   return {
     twitter: 'https://x.com/thedoinkdoink',
-    pump: 'https://pump.fun'
+    pump: 'https://pump.fun/coin/5w46sUhdzJvhuuC6K2T5vFSGXGzFeVsti6ZLA568pump'
   };
 }
 
